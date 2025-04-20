@@ -8,6 +8,7 @@ public class scriptPlacar : MonoBehaviour
     private static int placar = 0; 
     private static GameObject texto;
     public void Start(){
+        placar = 0;
         texto = GameObject.Find("txtPlacar");
     }
     public static void addPlacar(int a){

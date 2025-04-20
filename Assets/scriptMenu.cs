@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 public class scriptMenu : MonoBehaviour
 {
     public void iniciar(){
+        Time.timeScale = 1;
         SceneManager.LoadSceneAsync(1);
     }
 
