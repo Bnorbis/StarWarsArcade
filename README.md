@@ -1,3 +1,3 @@
 Esse é um jogo estilo arcade inspirado em Star Wars que eu desenvolvi como projeto da matéria de Desenvolvimento de jogos para aprender os fundamentos da Unity. Meu objetivo principal era entender melhor como funcionam os componentes da engine, como física, colisões, animações e scripts em C#. O jogo tem mecânicas simples, como movimentação da nave, tiros, inimigos e placar. Embora não seja um produto final ou comercial, me ajudou muito a aprender na prática e me deu base para projetos mais complexos no futuro, principalmente em projetos da própria matéria.
-
+Engine: Unity
 ![image](https://github.com/user-attachments/assets/0b8bd1c9-4ba0-434d-bb4b-7f7c27d9ba72)
